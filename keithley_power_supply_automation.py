@@ -28,7 +28,7 @@
 ║    • PyVISA library for instrument communication                              ║
 ║    • Keysight/National Instruments VISA drivers installed                    ║
 ║    • Matplotlib for graphing capabilities                                    ║
-║    • Keithley 2230 power supply connected via USBs                           ║
+║    • Keithley 2230 power supply connected via USB                       ║
 ║                                                                                ║
 ║  Author: Professional Instrumentation Control System                          ║
 ║  Last Updated: 2025-10-24 | Status: Production Ready                          ║
